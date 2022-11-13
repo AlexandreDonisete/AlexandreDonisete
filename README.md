@@ -20,12 +20,6 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-  
-<br/>
-
-<a href="https://github.com/AlexandreDonisete">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreDonisete&theme=dracula&show_icons=true" />
-</a>
 
 <br/>
 
