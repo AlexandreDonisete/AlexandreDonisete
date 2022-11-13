@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=AlexandreDonisete&color=006bed)
+
 <h3> :boy: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
