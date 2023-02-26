@@ -21,6 +21,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreDonisete&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDonisete&hide_progress=true)](https://github.com/AlexandreDonisete/github-readme-stats)
+
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
