@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Estudando novas tecnologias, buscando aprender e aplicar ao máximo os conhecimentos adquiridos. 
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uscs.edu.br/">USCS</a>.
 - 💼 &nbsp; Trabalhando como **Analista de e-commerce** na <a href="https://www.luxhair.com.br/">Lux Hair</a>
-- 🌱 &nbsp; Aprendendo mais sobre **C#, Java, JavaScript, HTML e CSS**.
+- 🌱 &nbsp; Aprendendo mais sobre ** Java, JavaScript, HTML e CSS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
