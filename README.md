@@ -4,6 +4,7 @@
 
 - 🤔 &nbsp; Estudando novas tecnologias, buscando aprender e aplicar ao máximo os conhecimentos adquiridos. 
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uscs.edu.br/">USCS</a>.
+- :computer: &nbsp;
 - 🌱 &nbsp; Aprendendo mais sobre Java e JavaScript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
