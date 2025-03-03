@@ -3,8 +3,8 @@
 <h3> :boy: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Estudando novas tecnologias, buscando aprender e aplicar ao máximo os conhecimentos adquiridos. 
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uscs.edu.br/">USCS</a>.
-- :computer: &nbsp; Atualmente, desenvolvendo um sistema integrado de agendamento para a clínica de Psicologia da Universidade de São Caetano do Sul
+- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.uscs.edu.br/">USCS</a>.
+- :computer: &nbsp; Atualmente, estudando Java e Springboot para aprimorar minhas habilidades como desenvolvedor Backend.
 - 🌱 &nbsp; Aprendendo mais sobre Java e JavaScript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
