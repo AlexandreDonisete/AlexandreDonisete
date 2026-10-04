@@ -2,10 +2,9 @@
 
 <h3> :boy: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Estudando novas tecnologias, buscando aprender e aplicar ao máximo os conhecimentos adquiridos. 
+- 🌱 &nbsp; Estudando novas tecnologias, buscando aprender e aplicar ao máximo os conhecimentos adquiridos. 
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.uscs.edu.br/">USCS</a>.
-- :computer: &nbsp; Atualmente, estudando Java e Springboot para aprimorar minhas habilidades como desenvolvedor Backend.
-- 🌱 &nbsp; Aprendendo mais sobre Java e JavaScript.
+- :computer: &nbsp; Atuo como desenvolvedor Backend na empresa JuntoSeguros.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
